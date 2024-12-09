@@ -48,5 +48,6 @@ Data will need to be requested from the GivEnergy, Octopus and MetOffices DataPo
     
 [] - Request solar angle and height data
 [] - Graph / table data for daily sending from gmail
+by Syuzanna Ghazaryan
 
 
